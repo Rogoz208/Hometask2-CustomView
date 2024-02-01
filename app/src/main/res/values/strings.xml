@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hometask2 CustomView</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
 </resources>
